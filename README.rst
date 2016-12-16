@@ -9,7 +9,7 @@ Usage
 
 Install the package using ``pip``::
 
-    $ pip install ovs-sphinx
+    $ pip install ovs-sphinx-theme
 
 Add the following to your ``conf.py``:
 
