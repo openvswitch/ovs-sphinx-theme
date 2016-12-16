@@ -1,0 +1,12 @@
+*~
+*.pyc
+TAGS
+build
+.tox
+.venv
+AUTHORS
+ChangeLog
+dist
+*.egg-info
+*.egg
+.eggs
