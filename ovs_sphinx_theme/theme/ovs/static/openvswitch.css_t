@@ -102,6 +102,13 @@ body {
     zoom: 1; /* For IE 6/7 */
 }
 
+/* Logo */
+
+#logo img {
+    height: 100px;
+    width: 154px;
+}
+
 /* Navbar
  *
  * Based on tutorial from w3bits.com
