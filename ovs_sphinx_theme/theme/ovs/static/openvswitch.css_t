@@ -586,6 +586,10 @@ div.warning ul, div.warning ol {
     padding: 0;
 }
 
+ul.simple p {
+    margin-block: auto;
+}
+
 /* Linux Collaborative Projects header */
 
 .collaborative-projects .gray-diagonal {
