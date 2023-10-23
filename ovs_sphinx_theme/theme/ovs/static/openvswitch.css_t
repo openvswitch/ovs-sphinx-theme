@@ -395,6 +395,16 @@ footer[role="contentinfo"] {
     float:right;
 }
 
+table.docutils, table.docutils tr, table.docutils td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-inline: 10px;
+}
+
+table.docutils tr:nth-child(even) {
+    background-color: WhiteSmoke;
+}
+
 /* Widgets */
 
 .side-widgets {
